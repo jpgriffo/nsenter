@@ -1,0 +1,8 @@
+Package: nsenter
+Version: 2.24
+Section: base
+Priority: optional
+Architecture: amd64
+Maintainer: Flexiant <contact@flexiant.com>
+Description: nsenter 
+ nesenter needed to create a weave bridge in docker
